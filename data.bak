@@ -1,0 +1,406 @@
+$ffdb = {
+'events' => {'2014149' => [bless( {'when' => 'Noon','who' => ['Morgan Paulson'],'date' => '2014149','id' => 59,'description' => 'Lifting
+
+Shoulder work
+
+20 squat jumps
+20 burpees
+20 calf raises on each side
+25 tuck jumps','where' => 'Patagonia'}, 'MyEvent' ),bless( {'when' => 'ALL DAY','who' => ['Tom Watson'],'date' => '2014149','id' => 61,'description' => 'MTB session, active recovery session, pod with locals','where' => 'Canberra'}, 'MyEvent' ),bless( {'when' => '630pm','who' => ['Linh Hoang'],'date' => '2014149','id' => 64,'description' => 'lifting: 3x5 squats (165lbs)
+5x5 bench (70lbs)
+5reps deadlift (165lbs)
+3x7 inverted rows','where' => 'gym'}, 'MyEvent' ),bless( {'when' => '','who' => ['Clay Miller'],'date' => '2014149','id' => 65,'description' => 'Weights: 
+3x6 squats @205, 225, 225 (two plates!)
+3x6 RDL @135?
+3x8 calfraises @ 40
+3x8 yesses and nos
+3x8 glute bridges
+3x8 shoulder rehab things
+3x8 rows @60R, 55L
+3x8 flies @ 15
+3x8 lateral raises @17.5, 15, 15
+3x8 different shoulder rehab things
+
+streeeeeeeeeeeetch','where' => ''}, 'MyEvent' ),bless( {'when' => '8pm','who' => ['Kevin Cocks'],'date' => '2014149','id' => 66,'description' => '2 mile warm up
+Weights - shoulders, traps, back','where' => 'Crunch Fitness'}, 'MyEvent' ),bless( {'when' => '7-10:30','who' => ['Nicholas Alexander'],'date' => '2014149','id' => 67,'description' => 'Track Workout #2 & Pickup','where' => 'LA, woop, woop!'}, 'MyEvent' ),bless( {'when' => 'Evening','who' => ['An-Chi Tsou'],'date' => '2014149','id' => 68,'description' => 'Rolling and icing','where' => 'Home'}, 'MyEvent' ),bless( {'when' => '9pm, 4pm','who' => ['Federico Chialvo'],'date' => '2014149','id' => 69,'description' => 'PB Jump Workout Week 4
+Lift legs:squats,RFESS, SLDL
+Throwing in low light
+1.5 hours shoulder rehab at PT','where' => 'Carlmont High, Pacific TherX'}, 'MyEvent' ),bless( {'when' => 'Morning','who' => ['Greg Marliave'],'date' => '2014149','id' => 70,'description' => 'Jumping workout','where' => 'Home'}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard'],'date' => '2014149','id' => 71,'description' => 'Man. I tested out the Pleasanton Super Sport 24 hour fitness, and it was really good. I think I\'m gonna buy a membership. I worked out for like 2 hours. I can\'t remember everything I did, but it involved
+
+Warmup
+Stretch
+Lat rows
+Hang cleans
+Bench press
+Low-bar squat
+Abductor/Adductor machine
+Abs
+Chest rows
+Kettlebell swings
+Kettlebell goblet squat
+Kettlebell lunges
+Balanced KB stepups on box
+Battle rope
+Climbing rope
+Balancing stuff
+
+Yeah so a bunch of stuff
+','where' => ''}, 'MyEvent' ),bless( {'when' => '8:30-11:00pm','who' => ['Sam Adamson'],'date' => '2014149','id' => 76,'description' => 'Dogfish practice','where' => 'Berkeley'}, 'MyEvent' ),bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014149','id' => 81,'description' => 'Softball','where' => ''}, 'MyEvent' ),bless( {'when' => '3:00-4:30pm','who' => ['Megan Norr'],'date' => '2014149','id' => 82,'description' => 'Lake Merritt Run (roughly 8:30/mi)
+PB Jump Workout #4
+Agility ladder
+Throwing
+','where' => 'Lake Merritt'}, 'MyEvent' ),bless( {'when' => '7pm','who' => ['Marisa Mead'],'date' => '2014149','id' => 83,'description' => 'Sprints:
+8x20&back
+5x40&back
+6x20-20-20
+throwing','where' => 'BHS'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley'],'date' => '2014149','id' => 97,'description' => 'Hamstring Rehab, core','where' => ''}, 'MyEvent' ),bless( {'when' => '6:30p','who' => ['Dulcy Docken'],'date' => '2014149','id' => 115,'description' => 'SF Spring League (savage!)','where' => 'GGP'}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014149','id' => 164,'description' => 'Ankle MRI','where' => ''}, 'MyEvent' )],'2014165' => [bless( {'when' => '8:00am','who' => ['Sam Adamson','Nicholas Alexander','Robert Gormley','An-Chi Tsou','Tom Watson','Dulcy Docken','Marisa Mead','Linh Hoang','Scott Roeder','Kevin Cocks'],'date' => '2014165','id' => 277,'description' => 'Practice','where' => 'treasure island'}, 'MyEvent' ),bless( {'when' => 'All day','who' => ['Greg Marliave'],'date' => '2014165','id' => 278,'description' => 'Practice; FlameThrowers v. Raptors Win!','where' => 'Various parts of TI; Galileo HS'}, 'MyEvent' ),bless( {'when' => '','who' => ['Cecil Qiu'],'date' => '2014165','id' => 284,'description' => 'SFFT Game (counts as a workout?)','where' => ''}, 'MyEvent' ),bless( {'when' => '12-2','who' => ['Meeri Chang'],'date' => '2014165','id' => 285,'description' => '"pickup" with local "players"
+
+ankle ice','where' => 'SHHS'}, 'MyEvent' ),bless( {'when' => '9am-7pm','who' => ['Morgan Paulson'],'date' => '2014165','id' => 287,'description' => 'Tahoe hat tournament','where' => 'NTHS'}, 'MyEvent' )],'2014140' => [bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014140','id' => 5,'description' => 'Bike 8 Miles
+Weights - Chest & Triceps','where' => 'Crunch Fitness'}, 'MyEvent' ),bless( {'when' => '','who' => ['Clay Miller'],'date' => '2014140','id' => 21,'description' => 'agility and speed workout','where' => ''}, 'MyEvent' ),bless( {'when' => '7:30-8:30pm','who' => ['Megan Norr'],'date' => '2014140','id' => 34,'description' => 'Track workout #1','where' => 'Berkeley Edwards track'}, 'MyEvent' ),bless( {'when' => '6pm','who' => ['Federico Chialvo'],'date' => '2014140','id' => 38,'description' => '22x 20s@80%-40s walk','where' => 'Holbrook Palmer'}, 'MyEvent' ),bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014140','id' => 79,'description' => 'Track Workout 3','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave'],'date' => '2014140','id' => 89,'description' => 'Track workout #3','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['An-Chi Tsou'],'date' => '2014140','id' => 92,'description' => 'Track workout #2','where' => 'Sactown - Southside Park'}, 'MyEvent' ),bless( {'when' => '7p','who' => ['Dulcy Docken'],'date' => '2014140','id' => 119,'description' => 'P90X Yoga Workout','where' => 'My house'}, 'MyEvent' ),bless( {'when' => '','who' => ['Adam Raty'],'date' => '2014140','id' => 130,'description' => 'PB track workout','where' => 'pleasanton'}, 'MyEvent' )],'2014160' => [bless( {'when' => '6-7 AM','who' => ['Meeri Chang'],'date' => '2014160','id' => 202,'description' => 'Swim workout','where' => 'Legion Pool'}, 'MyEvent' ),bless( {'when' => '4pm-5:30','who' => ['Federico Chialvo'],'date' => '2014160','id' => 210,'description' => 'Active Recovery:
+Lacrosse Ball and Roller
+
+Intervals on recumbent stationary bike
+("Sprint 8" 8x30s all out, 90s slow recovery)
+
+Stretching
+
+Shoulder rehab with Cable machine 
+5 different exercises 2x25 each','where' => 'Riekes Center'}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave'],'date' => '2014160','id' => 212,'description' => 'jumping workout
+
+25x box jumps
+25x tuck jumps
+25x squat jumps
+
+rest 1 minute and repeat','where' => 'Bezerkley'}, 'MyEvent' ),bless( {'when' => '','who' => ['An-Chi Tsou'],'date' => '2014160','id' => 213,'description' => 'lifting - spartacus triple set scorcher','where' => 'in my sauna apartment in sactown'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley'],'date' => '2014160','id' => 215,'description' => 'Yoga 
+6-7pm
+
+Track Workout #4
+7:15-8:30','where' => 'Surface of the Sun Sactown'}, 'MyEvent' ),bless( {'when' => '530pm','who' => ['Linh Hoang'],'date' => '2014160','id' => 216,'description' => 'lifting - 
+squats: 3x5 @165
+bench: 3x5 @ 75
+one-leg deadlift: 3x5 (each leg) @70
+inverted row: 3x7','where' => 'gym'}, 'MyEvent' ),bless( {'when' => '8pm','who' => ['Morgan Paulson'],'date' => '2014160','id' => 217,'description' => 'Summer league','where' => 'Reno'}, 'MyEvent' ),bless( {'when' => '','who' => ['Scott Roeder'],'date' => '2014160','id' => 218,'description' => 'Morning:
+25x4 Pushups
+30x4 Crunches
+20x4 Squats
+
+Afternoon: TBD','where' => ''}, 'MyEvent' ),bless( {'when' => '5:30 pm - 6:30 pm','who' => ['Julia Ting'],'date' => '2014160','id' => 221,'description' => 'Swimming, meters pool
+2 x 300 free/im order kick drill swim
+20 x 25 im order
+2 x
+[ 2 x 25 sprint
+  2 x 50 smooth
+  1 x 100 focus on core rotation]
+1 x 50
+2 x 25 all out
+','where' => 'Google quad pool'}, 'MyEvent' ),bless( {'when' => '7p','who' => ['Dulcy Docken'],'date' => '2014160','id' => 229,'description' => 'Club Summer League ','where' => 'Gilman'}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard'],'date' => '2014160','id' => 262,'description' => 'Slow jog in midday heat
+Stretching
+Light Hamstring rehab','where' => ''}, 'MyEvent' ),bless( {'when' => 'Afternoon','who' => ['Tom Watson'],'date' => '2014160','id' => 280,'description' => 'Active recovery session','where' => 'Dublin'}, 'MyEvent' )],'2014139' => [bless( {'when' => 'Evening','who' => ['Tom Watson'],'date' => '2014139','id' => 47,'description' => 'Throws','where' => 'Canberra'}, 'MyEvent' ),bless( {'when' => '7p','who' => ['Dulcy Docken'],'date' => '2014139','id' => 118,'description' => 'Track Workout:
+Intervals: 16x run 200, jog 100
+Stairs: 3 sets of: 1 at a time, 2 at a time, hops (left, right) jumps w/ 2 feet, side stepping both sides
+Lunges up the stairs, 3 sets of various types of box jumps
+10 (ish) minute Abs','where' => 'Kezar'}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014139','id' => 167,'description' => 'Ankle PT','where' => ''}, 'MyEvent' )],'2014143' => [bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014143','id' => 8,'description' => 'Wakeboarding : )','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014143','id' => 12,'description' => 'College nationals','where' => 'mason, oh'}, 'MyEvent' ),bless( {'when' => '7:30-9am','who' => ['Clay Miller','Megan Norr'],'date' => '2014143','id' => 19,'description' => 'track workout #3
+','where' => 'Berkeley'}, 'MyEvent' ),bless( {'when' => '7am-8:30am','who' => ['Federico Chialvo'],'date' => '2014143','id' => 36,'description' => 'Shoulder Physical Therapy','where' => 'Pacific TherX'}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave','An-Chi Tsou'],'date' => '2014143','id' => 90,'description' => 'Bouldering','where' => 'Iron Works'}, 'MyEvent' )],'2014137' => [bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014137','id' => 168,'description' => '3-hour Michigan Practice','where' => 'Elbel Turf'}, 'MyEvent' )],'2014144' => [bless( {'when' => '1-5pm','who' => ['AJ Shankar','Dulcy Docken','Kevin Cocks','Clay Miller','Nicholas Alexander','Ben Hubbard','Federico Chialvo','Marisa Mead','Natasha Won','An-Chi Tsou','Greg Marliave'],'date' => '2014144','id' => 1,'description' => 'Practice','where' => 'Moraga'}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014144','id' => 13,'description' => 'College nationals','where' => 'mason, oh'}, 'MyEvent' ),bless( {'when' => '','who' => ['Sam Adamson','Scott Roeder'],'date' => '2014144','id' => 15,'description' => 'Practice','where' => ''}, 'MyEvent' ),bless( {'when' => '1pm-5pm','who' => ['Megan Norr'],'date' => '2014144','id' => 23,'description' => 'Practice','where' => 'Moraga'}, 'MyEvent' ),bless( {'when' => 'Saturday afternoon','who' => ['Tom Watson'],'date' => '2014144','id' => 41,'description' => 'Practice (With Aus team)','where' => 'Canberra'}, 'MyEvent' ),bless( {'when' => '','who' => ['Linh Hoang'],'date' => '2014144','id' => 52,'description' => 'swim: 6x800m; 100m cool-down','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Sonny Zaccaro'],'date' => '2014144','id' => 145,'description' => 'practice','where' => ''}, 'MyEvent' )],'2014147' => [bless( {'when' => '4:30-5:45pm','who' => ['AJ Shankar'],'date' => '2014147','id' => 3,'description' => 'Gym:
+Limber 11 stretching
+Core, balancing
+2x10 depth jumps
+2x6 dead-hang pullups
+3x2x6 single leg press
+2x10 calf raises
+2x8 hip adductors
+2x8 hip abductors
+3x8 bench
+2x2x8 RDLs
+2x2x8 weighted lunges','where' => '24 Hour Fitness'}, 'MyEvent' ),bless( {'when' => '5 - 8 pm','who' => ['Kevin Cocks'],'date' => '2014147','id' => 9,'description' => 'Bike - 3 miles
+Weights - Chest & Triceps
+
+Sacramento Pod!','where' => 'Crunch Fitness & McKinley Park'}, 'MyEvent' ),bless( {'when' => '','who' => ['Sam Adamson'],'date' => '2014147','id' => 16,'description' => 'Track work out. 25 min focused throwing while tired. Worked on catching disc at my max height.  ','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Clay Miller'],'date' => '2014147','id' => 17,'description' => 'Agility and speed workout','where' => ''}, 'MyEvent' ),bless( {'when' => '9-10:30','who' => ['Nicholas Alexander'],'date' => '2014147','id' => 22,'description' => 'Track Workout #1','where' => 'UCLA!  :D'}, 'MyEvent' ),bless( {'when' => '1:00-2:00pm','who' => ['Megan Norr'],'date' => '2014147','id' => 26,'description' => 'Throwing, 12 min abs','where' => 'San Pablo'}, 'MyEvent' ),bless( {'when' => '6:30-7:45','who' => ['Morgan Paulson'],'date' => '2014147','id' => 29,'description' => 'Hill workout:
+4x2min sprints
+10 min abs','where' => 'Reno'}, 'MyEvent' ),bless( {'when' => '6PM','who' => ['Marisa Mead'],'date' => '2014147','id' => 33,'description' => '2x: 400m run, 20 squats, 10 pushups
+Throwing 4 min
+5x: 100 yrd sprint, 5 burpees
+Throwing 4 min
+5x: 40 yrd sprint, 20 yrd bear crawl
+Throwing 4 min
+
+Not a workout - but tonight I bought an ankle brace that should actually fit so I shouldn\'t have stupid foot pain problems at practice now!','where' => 'Palo Alto HS'}, 'MyEvent' ),bless( {'when' => ' 7pm, noon','who' => ['Federico Chialvo'],'date' => '2014147','id' => 40,'description' => ' Track Workout #4 and Physical Therapy Appointment(1.5 hours of shoulder rehab)','where' => ' Menlo Atherton High School, Pacific TherX'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley','An-Chi Tsou'],'date' => '2014147','id' => 48,'description' => 'Sac Pod','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave'],'date' => '2014147','id' => 62,'description' => 'Lifting','where' => ''}, 'MyEvent' ),bless( {'when' => 'the AM!','who' => ['Scott Roeder'],'date' => '2014147','id' => 74,'description' => 'Track Workout','where' => 'Cal State East Bay'}, 'MyEvent' )],'2014155' => [bless( {'when' => '','who' => ['Sonny Zaccaro','Natasha Won'],'date' => '2014155','id' => 147,'description' => 'LPC pickup','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave'],'date' => '2014155','id' => 161,'description' => 'Track Workout #5','where' => 'Hill up to Clark Kerr track'}, 'MyEvent' ),bless( {'when' => '','who' => ['An-Chi Tsou'],'date' => '2014155','id' => 162,'description' => 'Speed endurance cycle','where' => 'Sacramento'}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014155','id' => 170,'description' => 'Lifting: backsquats, ovh press
+Ladder (30-20-10-5) of pushups, rowers, bicep curls, lunges
+
+lots of rolling out','where' => ''}, 'MyEvent' ),bless( {'when' => '6pm','who' => ['Federico Chialvo'],'date' => '2014155','id' => 171,'description' => 'Speed endurance(?) cycle
+5 Shoulder exercises with cable machine
+Stretch
+Abs','where' => 'Riekes center'}, 'MyEvent' ),bless( {'when' => '6-8pm','who' => ['Morgan Paulson'],'date' => '2014155','id' => 172,'description' => 'Pod workout
+
+1X200m
+1x100m
+2x50m
+4x20m
+10x10m
+
+Kill drills-10 times each
+
+Tabatas:
+Push-ups
+Toe touches
+Mountain climbers
+Star jumps
+
+Ladder work
+
+Huck drill
+
+80 throws
+
+','where' => 'UNR'}, 'MyEvent' ),bless( {'when' => '','who' => ['Clay Miller'],'date' => '2014155','id' => 173,'description' => 'Speed and Agility workout
+abs','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Sam Adamson'],'date' => '2014155','id' => 174,'description' => 'Speed and Footwork drills. Throwing before and after for 15 min. ','where' => 'Berkeley'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley'],'date' => '2014155','id' => 177,'description' => 'AM
+Cycling Intervals
+Limber 11
+Hip PT, Core
+
+PM
+Warmups, Agils
+Throwing','where' => ''}, 'MyEvent' ),bless( {'when' => '5:30-8:00pm','who' => ['Megan Norr'],'date' => '2014155','id' => 179,'description' => 'Agility work, Bushrod Pickup','where' => 'Bushrod park'}, 'MyEvent' ),bless( {'when' => '9:30pm','who' => ['AJ Shankar'],'date' => '2014155','id' => 180,'description' => 'Track workout #5','where' => 'Clark Kerr hill'}, 'MyEvent' ),bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014155','id' => 183,'description' => 'RICE','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard','Scott Roeder'],'date' => '2014155','id' => 184,'description' => 'LPC practice','where' => ''}, 'MyEvent' ),bless( {'when' => '5:45-7:30','who' => ['Ellen Zwickl'],'date' => '2014155','id' => 226,'description' => 'Pilates (core, planks, back, hips) and Tabatas','where' => ''}, 'MyEvent' )],'max_id' => 292,'2014154' => [bless( {'when' => '7am','who' => ['Linh Hoang'],'date' => '2014154','id' => 121,'description' => '3mi run (8:32,7:43,8:45)
+abs','where' => 'in houston (for work)'}, 'MyEvent' ),bless( {'when' => '','who' => ['Scott Roeder'],'date' => '2014154','id' => 124,'description' => 'Track Workout #5','where' => 'Stanton Hill'}, 'MyEvent' ),bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014154','id' => 126,'description' => 'Softball','where' => ''}, 'MyEvent' ),bless( {'when' => '10am','who' => ['Kevin Cocks'],'date' => '2014154','id' => 134,'description' => 'Fluid in knee drained and cortisone shot : (
+
+RICE','where' => 'Kaiser'}, 'MyEvent' ),bless( {'when' => '5:00pm','who' => ['Sam Adamson'],'date' => '2014154','id' => 136,'description' => 'Hill Sprint Track Workout','where' => 'Berkeley'}, 'MyEvent' ),bless( {'when' => '5-7','who' => ['Nicholas Alexander'],'date' => '2014154','id' => 137,'description' => 'Track Workout #3','where' => 'UCLA'}, 'MyEvent' ),bless( {'when' => '5:30pm','who' => ['Morgan Paulson'],'date' => '2014154','id' => 138,'description' => 'Hamstring and hip flexor work with trainer','where' => 'Performance Training '}, 'MyEvent' ),bless( {'when' => '11am','who' => ['Federico Chialvo'],'date' => '2014154','id' => 139,'description' => '10 minute abs
+pro multi hip abd @45lbs 2x15
+
+Series #1(light weight MB due to shoulder injury)
+MB side toss(progression) @4lbs 3x8
+stationary lunge(stretch) 3x8
+MB tranverse Push Press(Progression) Left@4lbs Right@8 3x8lbs
+Hurdle Step Unders 3x10
+
+Series #2
+Off set Single Arm Cable Row 3x10
+DB RFEL @60lbs 3x10
+Squat Jumps 3x8
+DB SLDL @60lb 3x8
+
+Series #3
+TRX Straight Arm Row 3x10
+TRX Pushups 3x10
+TRX Hamstring Curls 3x10
+
+Shoulder rehab with cable machine','where' => 'Riekes Center, Redwood City'}, 'MyEvent' ),bless( {'when' => '','who' => ['An-Chi Tsou'],'date' => '2014154','id' => 140,'description' => 'upper body lifting; 10 min ab workout','where' => 'sactown'}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave'],'date' => '2014154','id' => 141,'description' => 'speed endurance cycle','where' => 'san pablo park'}, 'MyEvent' ),bless( {'when' => '','who' => ['Adam Raty'],'date' => '2014154','id' => 142,'description' => 'weights, foam rolling, stretching, and throwing','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Clay Miller'],'date' => '2014154','id' => 148,'description' => 'Weights:
+3x6 squats @225,225,205 and bonus at 205
+3x6 RDL @ 135,165,165
+3x8 calf press machine@130,140,140
+3x8 yesses and nos
+3x8 bicep curls @30/25
+3x8 triceps @25/20
+3x8 bench @50,55,55
+3x8 shoulder rehab things
+3x10 other shoulder rehab things
+','where' => ''}, 'MyEvent' ),bless( {'when' => 'evening','who' => ['Marisa Mead','Eric Greenwood'],'date' => '2014154','id' => 150,'description' => 'Track workout #5, throwing w/Adam','where' => 'Home, BHS'}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard'],'date' => '2014154','id' => 151,'description' => 'Worked a 24 hour shift for my ambulance company. I brought my exercise clothes, and we didn\'t have that many calls, so at 21:30 I worked out
+
+Warmup
+Plyometrics
+12x50m sprints every 45 seconds
+40lb weight vest 
+   -squats
+   -lunges
+   -side shuffles
+   -push ups (couldn\'t do very many)
+25lb KB one arm swings
+KB goblet squats
+
+10 minute abs
+
+Stretching
+
+','where' => 'oakland station'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley'],'date' => '2014154','id' => 176,'description' => 'Physical Therapy Appt!
+Hamstring PT','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Dulcy Docken'],'date' => '2014154','id' => 181,'description' => 'Pod Workout:
+Warmup
+various drills: cutting, defensive positioning, marking/faking, dish cut
+Focused throwing
+','where' => ''}, 'MyEvent' ),bless( {'when' => 'evening','who' => ['Tom Watson'],'date' => '2014154','id' => 198,'description' => 'Hammy rehab','where' => 'SF'}, 'MyEvent' )],'2014142' => [bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014142','id' => 11,'description' => 'Bike 10 miles
+Weights - Shoulders & Back
+Abs','where' => 'Crunch Fitness'}, 'MyEvent' ),bless( {'when' => '6pm','who' => ['Clay Miller','Megan Norr','Greg Marliave'],'date' => '2014142','id' => 18,'description' => 'pod
+','where' => 'San Pablo'}, 'MyEvent' ),bless( {'when' => '7pm','who' => ['Federico Chialvo'],'date' => '2014142','id' => 35,'description' => 'Track workout #3','where' => 'Seal Point Park'}, 'MyEvent' ),bless( {'when' => 'Day','who' => ['Tom Watson'],'date' => '2014142','id' => 46,'description' => 'Hamstring rehab','where' => 'Sydney'}, 'MyEvent' ),bless( {'when' => '','who' => ['An-Chi Tsou'],'date' => '2014142','id' => 91,'description' => 'Track workout #3
+Berkeley Pod','where' => 'Posey\'s Parking Garage; Berkeley'}, 'MyEvent' ),bless( {'when' => '6:30p','who' => ['Dulcy Docken'],'date' => '2014142','id' => 116,'description' => 'SF Spring League','where' => 'GGP'}, 'MyEvent' ),bless( {'when' => '','who' => ['Sonny Zaccaro'],'date' => '2014142','id' => 144,'description' => 'berk pod','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014142','id' => 166,'description' => 'Warmup Drills, Throwing for an hour','where' => 'mason, OH'}, 'MyEvent' )],'2014136' => [bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014136','id' => 169,'description' => 'Ankle PT','where' => ''}, 'MyEvent' )],'2014141' => [bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014141','id' => 10,'description' => 'RICEn
+PB Abs','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Clay Miller'],'date' => '2014141','id' => 20,'description' => 'weights','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Federico Chialvo'],'date' => '2014141','id' => 37,'description' => 'Lift Legs','where' => 'Riekes Center'}, 'MyEvent' ),bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014141','id' => 80,'description' => 'LPC practice','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['An-Chi Tsou'],'date' => '2014141','id' => 93,'description' => 'PB ab workout','where' => 'Sactown'}, 'MyEvent' ),bless( {'when' => '7p','who' => ['Dulcy Docken'],'date' => '2014141','id' => 117,'description' => 'SF Pod 
+Did part of Groove\'s pod (focused throwing, dump sets working on fakes and pivoting, 1 on 1 cutting drill w/ thrower), then PB pod.
+Substituted 3 person marking drill for mini since we only had 3, added Ellen\'s sprinting/shuffling circuit at the end.
+','where' => 'Kezar & GGP'}, 'MyEvent' ),bless( {'when' => '','who' => ['Adam Raty'],'date' => '2014141','id' => 131,'description' => 'Weights - Legs','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Sonny Zaccaro'],'date' => '2014141','id' => 143,'description' => 'LPC','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014141','id' => 165,'description' => 'Michigan POD','where' => 'Elbel Turf'}, 'MyEvent' )],'2014166' => [bless( {'when' => '','who' => ['Linh Hoang'],'date' => '2014166','id' => 286,'description' => '3mi run (8:36,7:38,8:30)
+3x15 push-ups
+planks (1:30 and 2:00)','where' => 'gym'}, 'MyEvent' ),bless( {'when' => '2:20 - 3:10','who' => ['Robert Gormley'],'date' => '2014166','id' => 288,'description' => '20 mile bike','where' => 'Moraga - Canyon'}, 'MyEvent' ),bless( {'when' => '','who' => ['Scott Roeder'],'date' => '2014166','id' => 289,'description' => 'Spiders Game vs Seattle Rapotos = #winning','where' => 'foothill college'}, 'MyEvent' ),bless( {'when' => '11:00 pm','who' => ['Julia Ting'],'date' => '2014166','id' => 290,'description' => 'huck practice & tabatas for bicycles, push ups, suitcases/kick outs, side planks','where' => 'Rengstorf Park'}, 'MyEvent' ),bless( {'when' => '5:30','who' => ['An-Chi Tsou','Greg Marliave'],'date' => '2014166','id' => 291,'description' => 'Track Workout #6','where' => 'Clark Kerr'}, 'MyEvent' )],'2014145' => [bless( {'when' => '9-1','who' => ['AJ Shankar','Dulcy Docken','Kevin Cocks','Sam Adamson','Clay Miller','Nicholas Alexander','Ben Hubbard','Federico Chialvo','Marisa Mead','Ellen Zwickl','Greg Marliave','An-Chi Tsou','Scott Roeder','Natasha Won','Sonny Zaccaro'],'date' => '2014145','id' => 2,'description' => 'Practice','where' => 'Moraga'}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014145','id' => 14,'description' => 'College nationals','where' => 'mason, oh'}, 'MyEvent' ),bless( {'when' => '9am-1pm','who' => ['Megan Norr'],'date' => '2014145','id' => 24,'description' => 'Practice','where' => 'Moraga'}, 'MyEvent' ),bless( {'when' => '9-1','who' => ['Morgan Paulson'],'date' => '2014145','id' => 28,'description' => 'Practice','where' => 'Campolindo'}, 'MyEvent' ),bless( {'when' => 'Sunday ALL DAY','who' => ['Tom Watson'],'date' => '2014145','id' => 43,'description' => 'MTB session morning, Practice Afternoon','where' => 'Canberra'}, 'MyEvent' ),bless( {'when' => '','who' => ['Linh Hoang'],'date' => '2014145','id' => 53,'description' => 'track workout #3','where' => ''}, 'MyEvent' )],'2014150' => [bless( {'when' => 'Afternoon','who' => ['Tom Watson'],'date' => '2014150','id' => 72,'description' => 'Hammy rehab/prehab','where' => 'Canberra'}, 'MyEvent' ),bless( {'when' => '7am-8am','who' => ['Marisa Mead'],'date' => '2014150','id' => 84,'description' => 'Women\'s goalty','where' => 'Garfield Square, SF'}, 'MyEvent' ),bless( {'when' => '3:30-4:30pm','who' => ['AJ Shankar'],'date' => '2014150','id' => 85,'description' => 'Track was supposed to be open but it was closed :(.
+
+AJ Cone Drill','where' => 'Park'}, 'MyEvent' ),bless( {'when' => '4:30pm, 9pm','who' => ['Federico Chialvo'],'date' => '2014150','id' => 86,'description' => 'Throwing
+30 Backhands, 30 Forehands, 10 hammers at 10yds, 20yds, 30yds
+
+100 rinky-dinks
+
+Shoulder rehab exercises','where' => 'Red Morton Park, mi casa'}, 'MyEvent' ),bless( {'when' => '','who' => ['An-Chi Tsou','Greg Marliave'],'date' => '2014150','id' => 88,'description' => 'Track Workout #4','where' => 'Clark Kerr Track'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley'],'date' => '2014150','id' => 98,'description' => 'Hamstring Rehab, core
+10 mins intervals, stationary bike','where' => ''}, 'MyEvent' ),bless( {'when' => 'Friday morning, 8am-10am','who' => ['Ellen Zwickl','Dulcy Docken'],'date' => '2014150','id' => 105,'description' => 'Track Workout #4','where' => 'Kezar'}, 'MyEvent' )],'2014157' => [bless( {'when' => 'Portola valley','who' => ['Federico Chialvo'],'date' => '2014157','id' => 191,'description' => 'Physical Therapy for shoulder
+Some massage, rehab exercises, stim and ice, kinesiotaped for the weekend','where' => 'Pacific TherX'}, 'MyEvent' ),bless( {'when' => '6-7 Am','who' => ['Meeri Chang'],'date' => '2014157','id' => 196,'description' => 'Morning swim workout w/brother\'s swim coach Geez, swimming is tough! ','where' => 'Legion Pool'}, 'MyEvent' ),bless( {'when' => 'evening','who' => ['Megan Norr'],'date' => '2014157','id' => 199,'description' => 'Biked a lot today! (12 mi total; home to Berkeley, Berkeley to E. Oakland: dem hills tho!)
+stretched, rolled out','where' => 'Oakland'}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave','An-Chi Tsou'],'date' => '2014157','id' => 211,'description' => 'Bouldering','where' => 'BIW'}, 'MyEvent' )],'2014135' => [bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014135','id' => 127,'description' => 'Track workout 3','where' => ''}, 'MyEvent' )],'2014153' => [bless( {'when' => '930am','who' => ['Linh Hoang'],'date' => '2014153','id' => 107,'description' => 'track workout #5 (hill was about 150m - but really all you need to know was that it was a brutal hill!)','where' => '21st st - mission'}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014153','id' => 108,'description' => 'Icing, abs','where' => ''}, 'MyEvent' ),bless( {'when' => 'Noon','who' => ['Federico Chialvo'],'date' => '2014153','id' => 111,'description' => 'Track Workout #5
+Love dem hills baby!','where' => 'Stanford Dish'}, 'MyEvent' ),bless( {'when' => '4-5pm','who' => ['AJ Shankar'],'date' => '2014153','id' => 112,'description' => 'Gym
+1/2 mile warmup at 5:30 pace
+Stretching (limber 11), balancing, core
+2x10 depth jumps
+2x6 dead-hang pullups
+3x5 squats
+2x8 hip abductors
+2x8 hip adductors
+3x5 bench press
+3x8 calf raises','where' => '24 Hour Fitness'}, 'MyEvent' ),bless( {'when' => '7p','who' => ['Dulcy Docken'],'date' => '2014153','id' => 113,'description' => 'Track Workout #5','where' => '24th St. hill '}, 'MyEvent' ),bless( {'when' => '7','who' => ['Clay Miller','Megan Norr'],'date' => '2014153','id' => 120,'description' => 'Crushing hills.  AKA Track workout #5
+
+Streeeeeeeeeeeeeeeeeeetch','where' => 'The steepest hill in Oakland'}, 'MyEvent' ),bless( {'when' => '5pm','who' => ['Kevin Cocks'],'date' => '2014153','id' => 123,'description' => 'Bike 5 miles
+Weights 
+RICE','where' => 'Crunch & My House'}, 'MyEvent' ),bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014153','id' => 125,'description' => 'Track workout 4','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Morgan Paulson'],'date' => '2014153','id' => 128,'description' => 'Summer league','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Adam Raty'],'date' => '2014153','id' => 129,'description' => 'Upper body lifting. Foam rolling.','where' => ''}, 'MyEvent' ),bless( {'when' => '8-9pm','who' => ['Marisa Mead'],'date' => '2014153','id' => 149,'description' => 'yoga for athletes','where' => 'home'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley'],'date' => '2014153','id' => 175,'description' => 'Hamstring Rehab
+Pool PT','where' => ''}, 'MyEvent' )],'2014151' => [bless( {'when' => '9-1','who' => ['An-Chi Tsou','Greg Marliave','Ben Hubbard','Megan Norr','Marisa Mead','Morgan Paulson','Ellen Zwickl','Linh Hoang','Federico Chialvo','AJ Shankar','Dulcy Docken','Clay Miller','Scott Roeder'],'date' => '2014151','id' => 87,'description' => 'practice','where' => 'Campolindo '}, 'MyEvent' ),bless( {'when' => '6pm','who' => ['Sam Adamson'],'date' => '2014151','id' => 94,'description' => 'Dogfish game. 3 D\'s and one assist. ','where' => 'Portland'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley'],'date' => '2014151','id' => 99,'description' => 'Hamstring rehab, core','where' => ''}, 'MyEvent' ),bless( {'when' => '9-5','who' => ['Nicholas Alexander'],'date' => '2014151','id' => 109,'description' => 'UCLA Alumni Day - Hat Tournament   Alumni vs Current A Team','where' => 'UCLA'}, 'MyEvent' ),bless( {'when' => '','who' => ['Adam Raty'],'date' => '2014151','id' => 132,'description' => 'Practice','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014151','id' => 135,'description' => 'Practice in AM
+Spiders Game in PM','where' => 'Campolindo - Los Altos'}, 'MyEvent' ),bless( {'when' => '','who' => ['Sonny Zaccaro'],'date' => '2014151','id' => 146,'description' => 'practice and spiders game','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014151','id' => 209,'description' => 'Lifting heavy equipment at work','where' => ''}, 'MyEvent' )],'2014164' => [bless( {'when' => '6-7 AM','who' => ['Meeri Chang'],'date' => '2014164','id' => 268,'description' => 'Swim Workout, starting to incorporate "sprints"','where' => 'Legion Pool'}, 'MyEvent' ),bless( {'when' => '8:15-9:30am','who' => ['Ellen Zwickl'],'date' => '2014164','id' => 269,'description' => 'Track Workout #6','where' => 'Colorado'}, 'MyEvent' ),bless( {'when' => 'Noon','who' => ['Morgan Paulson'],'date' => '2014164','id' => 270,'description' => 'Gym workout
+Lifting
+Jumping workout
+1 min planks
+1 min side planks (each side)','where' => 'Patagonia'}, 'MyEvent' ),bless( {'when' => '7:30-8:45am','who' => ['AJ Shankar'],'date' => '2014164','id' => 273,'description' => 'Track Workout #6','where' => 'Clark Kerr Track'}, 'MyEvent' ),bless( {'when' => '4-6','who' => ['Nicholas Alexander'],'date' => '2014164','id' => 275,'description' => 'Throwing and  Yoga','where' => 'San Jose'}, 'MyEvent' ),bless( {'when' => '4:00 pm','who' => ['Julia Ting'],'date' => '2014164','id' => 276,'description' => 'Swim Workout
+300
+20 x 25s IM order
+2 x 
+4 min tabatas high knees in water
+1 x 50 sprint
+1 x 50 build
+4 x 50s smooth
+-
+4 x 25s all out ','where' => 'quad pool'}, 'MyEvent' ),bless( {'when' => '7:30-late','who' => ['An-Chi Tsou','Dulcy Docken','Marisa Mead'],'date' => '2014164','id' => 279,'description' => 'Women\'s North Bay v. South Bay All-Star Game','where' => 'Foothill College'}, 'MyEvent' )],'2014158' => [bless( {'when' => '','who' => ['Federico Chialvo','Tom Watson','AJ Shankar','Kevin Cocks','Natasha Won','Sonny Zaccaro','Greg Marliave','Scott Roeder','Adam Raty'],'date' => '2014158','id' => 192,'description' => 'Cal states   SJ vs. FlameThrowers','where' => 'Santa Cruz, foothill college'}, 'MyEvent' ),bless( {'when' => '11-12, 6:30-7','who' => ['Meeri Chang'],'date' => '2014158','id' => 200,'description' => '"Pickup" at high school
+
+Ankle PT exercises: 
+Squats, single leg bridges, sidesteps, lunges, hamstring stretch, single leg squats, abductor uni stand, calf raises, rolling out. ','where' => 'SHHS, and home. '}, 'MyEvent' ),bless( {'when' => '','who' => ['Dulcy Docken','Linh Hoang','Marisa Mead','Eric Greenwood','Nicholas Alexander','Megan Norr','An-Chi Tsou','Clay Miller','Ellen Zwickl','Ben Hubbard'],'date' => '2014158','id' => 203,'description' => 'Cal States','where' => 'Santa Cruz'}, 'MyEvent' ),bless( {'when' => '','who' => ['Morgan Paulson'],'date' => '2014158','id' => 205,'description' => 'Cal States','where' => 'Santa Cruz '}, 'MyEvent' ),bless( {'when' => '2:00','who' => ['Sam Adamson'],'date' => '2014158','id' => 207,'description' => 'Dogfish game
+','where' => 'San Francisco'}, 'MyEvent' )],'2014156' => [bless( {'when' => '8:30am','who' => ['Morgan Paulson'],'date' => '2014156','id' => 182,'description' => '6x2min long hill sprints
+Stretching','where' => 'Patagonia'}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard'],'date' => '2014156','id' => 185,'description' => 'Burlingasm Pod
+
+Food afterward','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014156','id' => 186,'description' => 'Bike 10 miles
+Weights - Shoulders & Back
+RICE my knee','where' => 'Crunch/My house'}, 'MyEvent' ),bless( {'when' => '6:00','who' => ['Clay Miller','Greg Marliave','An-Chi Tsou','AJ Shankar','Sam Adamson','Megan Norr'],'date' => '2014156','id' => 187,'description' => 'Pod work out','where' => 'Berkeley'}, 'MyEvent' ),bless( {'when' => '','who' => ['Linh Hoang'],'date' => '2014156','id' => 189,'description' => 'lifting - 
+squats: 3x5 @165
+overhead press: 3x5 @55
+deadlift: 5 @165
+lat pulldown: 3x8 @70','where' => 'gym'}, 'MyEvent' ),bless( {'when' => '7pm-8:45','who' => ['Federico Chialvo'],'date' => '2014156','id' => 190,'description' => 'Pod','where' => 'Burlingame High'}, 'MyEvent' ),bless( {'when' => '7p','who' => ['Dulcy Docken','Marisa Mead','Robert Gormley','Tom Watson','Eric Greenwood','Natasha Won','Scott Roeder','Ellen Zwickl'],'date' => '2014156','id' => 194,'description' => 'Burlingame Pod','where' => 'Burlingame High School'}, 'MyEvent' ),bless( {'when' => '9-10','who' => ['Nicholas Alexander'],'date' => '2014156','id' => 195,'description' => 'Core Workout','where' => 'UCLA'}, 'MyEvent' ),bless( {'when' => '8-9','who' => ['Meeri Chang'],'date' => '2014156','id' => 197,'description' => '"Pickup" at high school','where' => 'SHHS'}, 'MyEvent' ),bless( {'when' => '','who' => ['Julia Ting'],'date' => '2014156','id' => 223,'description' => 'lifting
+dumbbell press 3 x 10 @ 20
+yes/no machine 3 x 10 @ 90 for abbductors and adductors
+3 x 1.5 min planks
+pilates 5 core exercises
+stretch
+PT','where' => ''}, 'MyEvent' )],'2014161' => [bless( {'when' => '4 PM','who' => ['Meeri Chang'],'date' => '2014161','id' => 219,'description' => 'Ankle rehab exercises (hip alignment, squats, lunges, one legged bridges, abductors, calf raises, hamstring stretch, rolling out) 
+
+Swim sprinting: high knees tabata with wall, high knees 20s on 20s off no wall, sprint tabata.  Got thundered out. 2m rest in between each. ','where' => 'Home and Pool'}, 'MyEvent' ),bless( {'when' => '4-5pm','who' => ['AJ Shankar'],'date' => '2014161','id' => 220,'description' => 'Gym
+Limber 11, core, balancing
+2x10 depth jumps
+3x8 squats
+2x8 calf raises
+3x8 bench press
+2x2x8 RDLs','where' => '24 Hour Fitness'}, 'MyEvent' ),bless( {'when' => '8:00 pm','who' => ['Julia Ting'],'date' => '2014161','id' => 224,'description' => 'ankle pt, rolling out, calf stretch, 4 min tabatas for bicycles, push ups, six inches, and side planks','where' => 'home'}, 'MyEvent' ),bless( {'when' => '4:00','who' => ['Sam Adamson'],'date' => '2014161','id' => 225,'description' => 'Weight Lifting-Front squats, pull ups, core','where' => 'Berkeley'}, 'MyEvent' ),bless( {'when' => '5:30pm','who' => ['Federico Chialvo'],'date' => '2014161','id' => 227,'description' => 'Track workout #6','where' => 'Menlo Atherton High'}, 'MyEvent' ),bless( {'when' => '6pm','who' => ['Morgan Paulson'],'date' => '2014161','id' => 228,'description' => 'Track workout #6
+100 throws','where' => 'Reno'}, 'MyEvent' ),bless( {'when' => '','who' => ['Clay Miller'],'date' => '2014161','id' => 230,'description' => 'Weights:
+3x8 calf press machine @140
+4x6 hammy machine @150
+3x6 leg press @325
+3x8 yesses and nos
+3x8 shoulder rehab thing
+3x8 shoulder rehab other thing
+3x8 reverse flies @17.5
+3x8 Ws @17.5
+3x8 front raises @17.5
+3x8 yet more shoulder rehab things
+
+Streeeeeeeeeeeeeeeeetch','where' => ''}, 'MyEvent' ),bless( {'when' => '11:00-12:30, 6:30-8:00','who' => ['Robert Gormley'],'date' => '2014161','id' => 231,'description' => 'Limber 11
+Hip & Hamstring PT
+
+Sactown Pod
+','where' => 'Sac'}, 'MyEvent' ),bless( {'when' => '','who' => ['Scott Roeder'],'date' => '2014161','id' => 232,'description' => 'Track Workout #6
+Softball Practice
+Bowling','where' => ''}, 'MyEvent' ),bless( {'when' => '6pm','who' => ['Kevin Cocks'],'date' => '2014161','id' => 234,'description' => 'Sacramento Pod','where' => 'McKinley Park'}, 'MyEvent' ),bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014161','id' => 236,'description' => 'Track Workout #6','where' => ''}, 'MyEvent' ),bless( {'when' => '7-8','who' => ['Marisa Mead'],'date' => '2014161','id' => 237,'description' => 'sprained arch/knee trauma from trick ball :(
+
+100 sit ups
+100 supermans
+100m lunges
+10 negative toes to bar
+bicycle tabata
+pushup tabata
+warrior 3 tabata
+side plank tabata
+100 single leg hip thrusters
+throwing- 10\'s
+','where' => 'BHS'}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave'],'date' => '2014161','id' => 238,'description' => 'AJ Cone Drill','where' => ''}, 'MyEvent' ),bless( {'when' => '7:30-8:00am; 6:30-8pm','who' => ['An-Chi Tsou'],'date' => '2014161','id' => 239,'description' => 'Jumping workout; sactown pod','where' => 'South side park; McKinley park i.e. The outskirts of hell'}, 'MyEvent' ),bless( {'when' => '7pm','who' => ['Eric Greenwood'],'date' => '2014161','id' => 266,'description' => 'Track, 6 200s @ 27sec, 3min rest between: was slow, still feeling the weekend?
+Core tabatas with Marisa, bicycles, push-ups, squat jumps, side-plank','where' => 'Burlingame High'}, 'MyEvent' )],'2014163' => [bless( {'when' => '6:30am','who' => ['Federico Chialvo'],'date' => '2014163','id' => 247,'description' => 'TRX Body Saws 2x15
+TRX Pikes 2x15
+pro multi hip abd 2x15
+
+Series #1
+MB side toss (progression) 3x8
+stationary lunge(stretch) 3x8
+MB tranverse Push Press( Progression) 3x8
+Hurdle Step Unders 3x10
+
+Series #2
+Off set Single Arm Cable Row 3x10
+DB RFEL  3x10
+Squat Jumps 3x8
+DB SLDL 3x8
+
+Series #3
+TRX Straight Arm Row 3x10
+TRX Pushups 3x10
+TRX Hamstring Curls 3x10','where' => 'Riekes Center'}, 'MyEvent' ),bless( {'when' => '7am/6:15pm','who' => ['Dulcy Docken'],'date' => '2014163','id' => 249,'description' => 'Track Workout #6/Berkeley Pod','where' => 'Kezar/San Pabs'}, 'MyEvent' ),bless( {'when' => 'Noon','who' => ['Morgan Paulson'],'date' => '2014163','id' => 254,'description' => 'Lifting
+Shoulders/arms','where' => 'Patagonia'}, 'MyEvent' ),bless( {'when' => '3-4','who' => ['Nicholas Alexander'],'date' => '2014163','id' => 256,'description' => 'Core Workout','where' => 'San Jose'}, 'MyEvent' ),bless( {'when' => '6:15','who' => ['Sam Adamson','Clay Miller','An-Chi Tsou','Greg Marliave','Robert Gormley'],'date' => '2014163','id' => 257,'description' => 'Pod work out','where' => 'Berkeley'}, 'MyEvent' ),bless( {'when' => '6:45','who' => ['Marisa Mead','Eric Greenwood','Adam Raty','Tom Watson'],'date' => '2014163','id' => 259,'description' => 'Pod Workout','where' => 'BHS'}, 'MyEvent' ),bless( {'when' => '1pm-4pm','who' => ['Ellen Zwickl'],'date' => '2014163','id' => 260,'description' => 'High alittude Throwing   Hiking/Disc Golf ','where' => 'Colorado'}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard'],'date' => '2014163','id' => 264,'description' => 'Bench press up to 5x155lb reps
+Pullups
+6 minutes of abs
+Hamstring rehab
+Hip flexor mobility','where' => ''}, 'MyEvent' ),bless( {'when' => '6:15 and 9pm','who' => ['Linh Hoang'],'date' => '2014163','id' => 265,'description' => 'Pod workout
+
+summer league game','where' => 'Berkeley'}, 'MyEvent' ),bless( {'when' => '6-8pm','who' => ['AJ Shankar'],'date' => '2014163','id' => 272,'description' => 'Moved heavy furniture. (Not a workout, just an excuse.)','where' => 'Oakland-Berkeley'}, 'MyEvent' ),bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014163','id' => 274,'description' => 'Track Workout','where' => 'Sac State'}, 'MyEvent' ),bless( {'when' => 'Midnight','who' => ['Cecil Qiu'],'date' => '2014163','id' => 282,'description' => 'Brisk mile at 10 mph
+Light full body lift with weighted side lunges (90lbs), shoulder press (45 lbs), and some plyos','where' => '24 Hour Fitness - North Beach, where it\'s at'}, 'MyEvent' )],'2014152' => [bless( {'when' => '','who' => ['An-Chi Tsou'],'date' => '2014152','id' => 95,'description' => 'Track Workout #5; reffed','where' => 'Clark Kerr Hill (omg); Galileo High'}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave','Clay Miller','Adam Raty'],'date' => '2014152','id' => 96,'description' => 'FlameThrowers Game vs. Vancouver Riptide','where' => 'San Francisco'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley'],'date' => '2014152','id' => 100,'description' => 'Hamstring Rehab
+Warmups, Throwing
+Pool PT, Stretching, Core','where' => ''}, 'MyEvent' ),bless( {'when' => '5:00-7:30pm','who' => ['Megan Norr'],'date' => '2014152','id' => 101,'description' => 'Pick-up (Bushrod)
+Box (30 mins)','where' => 'Bushrod Park'}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard'],'date' => '2014152','id' => 102,'description' => 'Warm up
+15 minute ladder work
+10x40 sprints every 30-45 seconds','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Marisa Mead'],'date' => '2014152','id' => 104,'description' => 'Boxing, football throwing, pushups & core, hip/glute strengthening, rolling, getting advice from PT friend','where' => 'San Bruno'}, 'MyEvent' ),bless( {'when' => '3pm-5pm','who' => ['Ellen Zwickl'],'date' => '2014152','id' => 106,'description' => 'Beach Volleyball','where' => 'ocean beach'}, 'MyEvent' ),bless( {'when' => '10pm','who' => ['Federico Chialvo'],'date' => '2014152','id' => 110,'description' => 'Shoulder rehab
+6 exercises 2x25','where' => 'Man Cave :)'}, 'MyEvent' ),bless( {'when' => 'Afternoon/Evening','who' => ['Kevin Cocks'],'date' => '2014152','id' => 122,'description' => 'RICE','where' => 'My House'}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014152','id' => 163,'description' => 'Icing and Rolling ankle','where' => ''}, 'MyEvent' ),bless( {'when' => 'Morning','who' => ['Tom Watson'],'date' => '2014152','id' => 178,'description' => 'Hammy rehab','where' => 'Sydney'}, 'MyEvent' )],'2014159' => [bless( {'when' => 'All day','who' => ['Federico Chialvo','AJ Shankar','Tom Watson','Kevin Cocks','Marisa Mead','Natasha Won','Megan Norr','Sonny Zaccaro','Greg Marliave','An-Chi Tsou','Clay Miller','Scott Roeder','Ben Hubbard'],'date' => '2014159','id' => 193,'description' => 'Cal States','where' => 'Santa Cruz'}, 'MyEvent' ),bless( {'when' => 'Afternoon','who' => ['Meeri Chang'],'date' => '2014159','id' => 201,'description' => 'Mountain Biking about 5 miles? Difficult terrain
+Ankle ice','where' => 'Bays mountain'}, 'MyEvent' ),bless( {'when' => '','who' => ['Dulcy Docken','Linh Hoang','Eric Greenwood','Nicholas Alexander','Sam Adamson','Ellen Zwickl'],'date' => '2014159','id' => 204,'description' => 'Cal States ','where' => 'Santa Cruz'}, 'MyEvent' ),bless( {'when' => '','who' => ['Morgan Paulson'],'date' => '2014159','id' => 206,'description' => 'Cal States','where' => 'Santa Cruz '}, 'MyEvent' ),bless( {'when' => '7:30 - 9:30','who' => ['Robert Gormley'],'date' => '2014159','id' => 214,'description' => 'Cycling Intervals, 10 mins
+Limber 11
+Lift Lowerbody
+Hip & Hamstring PT
+','where' => 'Sactown'}, 'MyEvent' ),bless( {'when' => '9:00 pm','who' => ['Julia Ting'],'date' => '2014159','id' => 222,'description' => 'abs -
+3 x 10 push ups
+pilates 5 core exercises','where' => 'home'}, 'MyEvent' ),bless( {'when' => '','who' => ['Adam Raty'],'date' => '2014159','id' => 251,'description' => 'Cal states','where' => ''}, 'MyEvent' )],'2014162' => [bless( {'when' => '6-7 AM','who' => ['Meeri Chang'],'date' => '2014162','id' => 233,'description' => 'Swim workout','where' => 'Legion Pool'}, 'MyEvent' ),bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014162','id' => 235,'description' => 'Bike - 6 miles
+Weights','where' => 'Crunch Ftiness'}, 'MyEvent' ),bless( {'when' => '7:30am','who' => ['An-Chi Tsou'],'date' => '2014162','id' => 240,'description' => 'Core workout','where' => 'Sactown apt'}, 'MyEvent' ),bless( {'when' => '4-6','who' => ['Nicholas Alexander'],'date' => '2014162','id' => 241,'description' => 'Track Workout #6','where' => 'Independence High School'}, 'MyEvent' ),bless( {'when' => '6pm','who' => ['Linh Hoang'],'date' => '2014162','id' => 242,'description' => 'hills - 3 sets: 4x150m
+pus-ups: 3x15
+planks: 3x1:30
+','where' => '21st - mission'}, 'MyEvent' ),bless( {'when' => '6:30-7:00, 8:00-9:30','who' => ['Robert Gormley'],'date' => '2014162','id' => 243,'description' => '20 min Trail Run
+
+Bike, Limber 11, Hamstring PT, Core','where' => 'Go east young man...to Folsom if you want to find any hills around here!'}, 'MyEvent' ),bless( {'when' => '6:30pm','who' => ['Morgan Paulson'],'date' => '2014162','id' => 244,'description' => 'Pod Workout
+7x80 yard relay (20 sit-ups & push-ups in between)
+AJ Cone drill x2
+Ladders
+Kill drill
+Throwing','where' => 'Reno'}, 'MyEvent' ),bless( {'when' => '1:30-2:30pm, 6:30-8pm','who' => ['Megan Norr'],'date' => '2014162','id' => 245,'description' => 'Track Workout #6
+Bushrod pickup','where' => 'Clark Kerr track, Bushrod'}, 'MyEvent' ),bless( {'when' => '6:00','who' => ['Sam Adamson'],'date' => '2014162','id' => 246,'description' => 'Weight lifting. Dead lift, shoulder press, core. ','where' => 'Berkeley'}, 'MyEvent' ),bless( {'when' => '6:00 PM','who' => ['Julia Ting'],'date' => '2014162','id' => 248,'description' => 'Medicine Ball & Gymming
+4 x 6 leg curl @ 80
+4 x 6 leg press @ 90
+3 x 10 adductors @ 90
+3 x 10 abductors @ 90
+2 x 5 assisted dip @ 40 assist 
+2 x 5 assisted pull up @ 40 assist
+3 x 10 lat pull down @ 30
+3 x 35 secs on 25 secs off of holding 5 lbs straight out
+25 x 15 lb medicine ball russian twists and pass to a friend
+50 x 15 lb medicine ball chest throw to friend and catch
+roll out, ankle pt, calf stretch','where' => 'Google Gym'}, 'MyEvent' ),bless( {'when' => '','who' => ['Adam Raty'],'date' => '2014162','id' => 252,'description' => 'Track workout then weights.','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014162','id' => 253,'description' => 'LPC & Ice','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Clay Miller'],'date' => '2014162','id' => 255,'description' => 'Core workout','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Greg Marliave'],'date' => '2014162','id' => 258,'description' => '12 min abs','where' => 'Bezerkley'}, 'MyEvent' ),bless( {'when' => '12-1pm','who' => ['Ellen Zwickl'],'date' => '2014162','id' => 261,'description' => 'Pilates (core, planks, back, hips)','where' => 'gym'}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard'],'date' => '2014162','id' => 263,'description' => 'Moderate to heavy Hamstring rehab','where' => ''}, 'MyEvent' ),bless( {'when' => '5:30pm','who' => ['Eric Greenwood'],'date' => '2014162','id' => 267,'description' => 'Lifting, Bear barbell complex, skater squats, good mornings, squats, deadlifts, hang power cleans. Bouldering','where' => 'Dogpatch Boulders'}, 'MyEvent' ),bless( {'when' => 'evening','who' => ['Scott Roeder'],'date' => '2014162','id' => 271,'description' => 'LPC Pickup - wind training','where' => 'LPC'}, 'MyEvent' ),bless( {'when' => 'Evening','who' => ['Tom Watson'],'date' => '2014162','id' => 281,'description' => 'Hammy rehab/prehab','where' => 'SF'}, 'MyEvent' ),bless( {'when' => '10 pm - late','who' => ['Cecil Qiu'],'date' => '2014162','id' => 283,'description' => 'Track workout (200s)','where' => 'Minneapolis'}, 'MyEvent' )],'2014146' => [bless( {'when' => '9-6','who' => ['Dulcy Docken','Ellen Zwickl'],'date' => '2014146','id' => 6,'description' => 'Memorial Day Tournament
+(6 games to 11)','where' => 'Marin'}, 'MyEvent' ),bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014146','id' => 7,'description' => 'Wakeboading : )','where' => ''}, 'MyEvent' ),bless( {'when' => '2:30-3:30pm','who' => ['Megan Norr','Sam Adamson'],'date' => '2014146','id' => 25,'description' => 'Recovery Run (track; 3x3min easy/3min 70%), 3-man mark','where' => 'Piedmont HS'}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard'],'date' => '2014146','id' => 27,'description' => 'Barefoot running
+Stretching','where' => ''}, 'MyEvent' ),bless( {'when' => '3ish to 6ish','who' => ['Marisa Mead'],'date' => '2014146','id' => 32,'description' => '3  hour Mt. Tam hike. Summitted 3 peaks.','where' => 'Mt. Tam'}, 'MyEvent' ),bless( {'when' => '10pm','who' => ['Federico Chialvo'],'date' => '2014146','id' => 39,'description' => 'Shoulder Exercises','where' => 'mi casa'}, 'MyEvent' ),bless( {'when' => 'Evening','who' => ['Tom Watson'],'date' => '2014146','id' => 45,'description' => 'Active recovery sesh. Roling, stretching, yoga','where' => 'Canberra'}, 'MyEvent' ),bless( {'when' => '12pm-2pm','who' => ['Scott Roeder'],'date' => '2014146','id' => 73,'description' => '2-hour hike in the oakland hills','where' => 'Oakland Hills'}, 'MyEvent' ),bless( {'when' => '','who' => ['Meeri Chang'],'date' => '2014146','id' => 103,'description' => 'Rest','where' => ''}, 'MyEvent' )],'2014148' => [bless( {'when' => '6:15','who' => ['AJ Shankar','Sam Adamson','Dulcy Docken'],'date' => '2014148','id' => 4,'description' => 'Pod','where' => 'San Pablo Park'}, 'MyEvent' ),bless( {'when' => 'Lunch-time and evening','who' => ['Tom Watson'],'date' => '2014148','id' => 44,'description' => 'Plyo session
+Throwing session','where' => 'Canberra'}, 'MyEvent' ),bless( {'when' => '','who' => ['Robert Gormley'],'date' => '2014148','id' => 49,'description' => 'Hamstring Rehab, core','where' => ''}, 'MyEvent' ),bless( {'when' => '','who' => ['Kevin Cocks'],'date' => '2014148','id' => 50,'description' => 'Track Workout','where' => 'Sac State'}, 'MyEvent' ),bless( {'when' => '6pm','who' => ['Morgan Paulson'],'date' => '2014148','id' => 51,'description' => 'Pod workout
+
+- 80 yard sprints x 6
+-Shuttles x 5 (5 yards, 7.5, 10, 7.5, 5)
+Push-ups between each set
+-Shuttles x 4 (shuffle there, sprint back) 
+- zig zag defending drill x 4
+- kill drills
+
+
+','where' => 'UNR'}, 'MyEvent' ),bless( {'when' => '','who' => ['Ben Hubbard'],'date' => '2014148','id' => 54,'description' => 'Berkeley Pod','where' => ''}, 'MyEvent' ),bless( {'when' => '5:45-7:30','who' => ['Ellen Zwickl'],'date' => '2014148','id' => 55,'description' => 'Pilates (core, planks, back, hips) and jump workout #4','where' => 'Gym'}, 'MyEvent' ),bless( {'when' => '','who' => ['Clay Miller','Greg Marliave'],'date' => '2014148','id' => 56,'description' => 'Pod','where' => ''}, 'MyEvent' ),bless( {'when' => '10:30-11','who' => ['Marisa Mead'],'date' => '2014148','id' => 57,'description' => 'Yoga','where' => 'home'}, 'MyEvent' ),bless( {'when' => '','who' => ['Linh Hoang'],'date' => '2014148','id' => 58,'description' => 'Pod
+
+swim (before pod): 6x800m; 100m cool-down','where' => ''}, 'MyEvent' ),bless( {'when' => '1:00-2:00pm / 6:30-8pm','who' => ['Megan Norr'],'date' => '2014148','id' => 60,'description' => 'Track workout #2 -minus last 3x400, got kicked off track :( 
+POD','where' => 'Berkeley Edwards track / San Pab'}, 'MyEvent' ),bless( {'when' => '','who' => ['An-Chi Tsou'],'date' => '2014148','id' => 63,'description' => 'Spartacus Lifting workout - long version','where' => 'Sacramento'}, 'MyEvent' ),bless( {'when' => 'My Birthday!','who' => ['Scott Roeder'],'date' => '2014148','id' => 75,'description' => 'Mountain Biking in the Santa Cruz Mountains! Feel le burn!','where' => 'Technically Aptos'}, 'MyEvent' ),bless( {'when' => '','who' => ['Natasha Won'],'date' => '2014148','id' => 77,'description' => 'LPC 6v6','where' => ''}, 'MyEvent' )]},
+'players' => {'Kevin Cocks' => bless( {'email' => 'kcocks20@gmail.com','name' => 'Kevin Cocks','phone' => '916-897-4732','team' => 'Polar Bears'}, 'Player' ),'Meeri Chang' => bless( {'email' => 'meerichang@gmail.com','name' => 'Meeri Chang','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Sonny Zaccaro' => bless( {'email' => 'sungfooo@gmail.com','name' => 'Sonny Zaccaro','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Ellen Zwickl' => bless( {'email' => '','name' => 'Ellen Zwickl','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Marisa Mead' => bless( {'email' => '','name' => 'Marisa Mead','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Natasha Won' => bless( {'email' => 'natashawon08@yahoo.com','name' => 'Natasha Won','phone' => '925-963-1494','team' => 'Polar Bears'}, 'Player' ),'Federico Chialvo' => bless( {'email' => '','name' => 'Federico Chialvo','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Morgan Paulson' => bless( {'email' => 'morgan.paulson0@gmail.com','name' => 'Morgan Paulson','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Clay Miller' => bless( {'email' => 'claymiller11@gmail.com','name' => 'Clay Miller','phone' => '530-228-2585','team' => 'Polar Bears'}, 'Player' ),'Scott Roeder' => bless( {'email' => 'scottnroeder@gmail.com','name' => 'Scott Roeder','phone' => '510-393-4617','team' => 'Polar Bears'}, 'Player' ),'An-Chi Tsou' => bless( {'email' => 'anchitsou@gmail.com','name' => 'An-Chi Tsou','phone' => '518-527-0287','team' => 'Polar Bears'}, 'Player' ),'Eric Greenwood' => bless( {'email' => 'eric.greenwoods@gmail.com','name' => 'Eric Greenwood','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Tom Watson' => bless( {'email' => '','name' => 'Tom Watson','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Robert Gormley' => bless( {'email' => '','name' => 'Robert Gormley','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Greg Marliave' => bless( {'email' => 'greg.marliave@gmail.com','name' => 'Greg Marliave','phone' => '510-333-2376','team' => 'Polar Bears'}, 'Player' ),'Sam Adamson' => bless( {'email' => '','name' => 'Sam Adamson','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Daniel Naruo' => bless( {'email' => 'robotworm@gmail.com','name' => 'Daniel Naruo','phone' => '510-258-9438','team' => 'Polar Bears'}, 'Player' ),'Dulcy Docken' => bless( {'email' => 'ddocken@gmail.com','name' => 'Dulcy Docken','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Adam Raty' => bless( {'email' => 'couldyoupleasenot@gmail.com','name' => 'Adam Raty','phone' => '925-580-5340','team' => 'Polar Bears'}, 'Player' ),'Julia Ting' => bless( {'email' => '','name' => 'Julia Ting','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Ben Hubbard' => bless( {'email' => 'bjhubbard@ucdavis.edu','name' => 'Ben Hubbard','phone' => '925-895-5331','team' => 'Polar Bears'}, 'Player' ),'Megan Norr' => bless( {'email' => '','name' => 'Megan Norr','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Alex Crew' => bless( {'email' => '','name' => 'Alex Crew','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Linh Hoang' => bless( {'email' => '','name' => 'Linh Hoang','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Nicholas Alexander' => bless( {'email' => '','name' => 'Nicholas Alexander','phone' => '','team' => 'Polar Bears'}, 'Player' ),'Cecil Qiu' => bless( {'email' => '','name' => 'Cecil Qiu','phone' => '','team' => 'Polar Bears'}, 'Player' ),'AJ Shankar' => bless( {'email' => 'ajshankar@gmail.com','name' => 'AJ Shankar','phone' => '510-847-7548','team' => 'Polar Bears'}, 'Player' ),'Paige Kercher' => bless( {'email' => '','name' => 'Paige Kercher','phone' => '','team' => 'Polar Bears'}, 'Player' )},
+};

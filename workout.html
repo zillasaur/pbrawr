@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>UGMO Team Workout Progress</title>
+<link rel="stylesheet" type="text/css" href="wkstyle.css" />
+<script type="text/javascript" src="js/Request.js"></script>
+<script type="text/javascript" src="js/Box.js"></script>
+<script type="text/javascript" src="js/Parse.js"></script>
+<script type="text/javascript" src="js/update.js"></script>
+</head>
+<body onload="init();">
+<center><h2>UGMO Team Workout Progress</h2>
+
+Name: <span id="names">Loading...</span>  
+<span id="change" onclick="logout()" style="visibility: hidden; color: blue; font-style: italic; font-size: 11px; cursor: pointer">Switch user...</span><p>
+<table><tr><td style="text-align: left; font-size: 10px; width: 400px">
+<div style="text-align: center"><b>Read This or Die</b></div>
+<li>If you did (or are going to do) an event that someone else already entered, <i>don't</i> enter it in your row yourself. Instead, find the entry in his row and click on "Me too".</li>
+<li>You can only have one event per day. So if you threw with some people and also jerked off on the same day, you have to pick one of the two.</li>
+<li>Don't screw around and pretend to be someone else. If this happens, we'll have to add password-protection, which sucks.</li>
+</td></tr></table>
+<div style="font-size: 10px">
+Date range: <span id="before-select"></span> days before to <span id="after-select"></span> days after. <input type="submit" value="Go" onclick="change_range()" style="font-size: 10px" id="range-go"></div><p>
+<div id="table">
+</div>
+</center>
+<div id="input-box" style="text-align: center; font-size: 11px;">
+  <div class="closebutton" id="input-box-close"><img
+  src="x-color.png" alt="[x]" width=12 height=12></div>
+  <div style="font-weight: bold;">Add Event:</div>
+<table style="text-align: left;">
+<tr><td style="vertical-align: top">Description:</td><td><textarea rows=3 cols=27 id="input-box-desc" style="width: 175px; font-size: 11px;"></textarea></td></tr>
+  <tr><td>Where:</td><td><input type="text" id="input-box-where" style="width: 175px; font-size: 11px;"></td></tr>
+  <tr><td>When:</td><td><input type="text" id="input-box-when"  style="width: 175px; font-size: 11px;"></td></tr>
+</table>
+  <input type="submit" value="Add event" id="add_event_button" style="font-size: 11px">
+</div>
+
+<div id="edit-box" style="text-align: center; font-size: 11px;">
+  <div class="closebutton" id="edit-box-close"><img
+  src="x-color.png" alt="[x]" width=12 height=12></div>
+  <div style="font-weight: bold;">Edit Event:</div>
+<table style="text-align: left;">
+<tr><td style="vertical-align: top">Description:</td><td><textarea rows=3 cols=27 id="edit-box-desc" style="width: 175px; font-size: 11px;"></textarea></td></tr>
+  <tr><td>Where:</td><td><input type="text" id="edit-box-where" style="width: 175px; font-size: 11px;"></td></tr>
+  <tr><td>When:</td><td><input type="text" id="edit-box-when"  style="width: 175px; font-size: 11px;"></td></tr>
+<tr style="vertical-align: top; width:30px;"><td>Who:</td><td style="width: 170px;"><span id="edit-box-who"></span></td></tr>
+</table>
+  <input type="submit" value="Edit event" id="edit_event_button" style="font-size: 11px">
+</div>
+  
+<div id="output-box" style="font-size: 11px">
+  <span id="output-box-desc"></span><br />
+<table style="text-align: left; width: 200px;">
+ <tr><td style="vertical-align: top; width:30px;">Where:</td><td style="width: 170px;"><span id="output-box-where"></span></td></tr>
+<tr style="vertical-align: top; width:30px;"><td>When:</td><td style="width: 170px;"><span id="output-box-when"></span></td></tr>
+<tr style="vertical-align: top; width:30px;"><td>Who:</td><td style="width: 170px;"><span id="output-box-who"></span></td></tr>
+</table>
+</div>
+</center>
+</body>
+</html>

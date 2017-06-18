@@ -1,0 +1,23 @@
+$ffdb = {
+'events' => {'2010168' => [bless( {'when' => '11pm','who' => ['AJ Shankar'],'date' => '2010168','id' => 1,'description' => 'Hamstring Rehab:
+Glute bridges
+BW squats
+Adduction
+Abduction
+Active prone hamstring raises
+Reverse hypers','where' => 'Home'}, 'MyEvent' )],'2010170' => [bless( {'when' => '9am','who' => ['AJ Shankar','808 Liu'],'date' => '2010170','id' => 2,'description' => 'Practice','where' => 'Castro Valley HS'}, 'MyEvent' )],'2010166' => [bless( {'when' => '7pm','who' => ['AJ Shankar'],'date' => '2010166','id' => 3,'description' => 'Hamstring Rehab:
+Glute bridges
+BW squats
+Adduction
+Abduction
+Single leg prone hamstring raises
+Reverse hypers','where' => 'Cordonices'}, 'MyEvent' ),bless( {'when' => '6 PM','who' => ['808 Liu','Daniel Naruo','Jacob Serrano','Robert Gormley','Ernst Westphal'],'date' => '2010166','id' => 5,'description' => 'PB drills
+give-go
+one on one huck
+3-man marking
+Throw','where' => 'Dublin'}, 'MyEvent' )],'max_id' => 6,'2010167' => [bless( {'when' => '7 PM','who' => ['808 Liu','Jacob Serrano','Daniel Naruo'],'date' => '2010167','id' => 4,'description' => '3-man marking (emphasis on not giving disc space)
+Tabatas (pushups, bridges, situps)
+10x 40 yard sprint relays with Robot and Zip, happy feet while you wait
+Throw','where' => 'Berkeley'}, 'MyEvent' )]},
+'players' => {'Jacob Serrano' => bless( {'email' => '','name' => 'Jacob Serrano','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Will Griffin' => bless( {'email' => '','name' => 'Will Griffin','team' => 'Polar Bears','phone' => ''}, 'Player' ),'808 Liu' => bless( {'email' => '','name' => '808 Liu','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Clay Miller' => bless( {'email' => '','name' => 'Clay Miller','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Natasha Won' => bless( {'email' => '','name' => 'Natasha Won','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Ernst Westphal' => bless( {'email' => '','name' => 'Ernst Westphal','team' => 'Polar Bears','phone' => ''}, 'Player' ),'An-Chi Tsou' => bless( {'email' => '','name' => 'An-Chi Tsou','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Alexa Kirkland' => bless( {'email' => '','name' => 'Alexa Kirkland','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Emma Dobbins' => bless( {'email' => '','name' => 'Emma Dobbins','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Emily West' => bless( {'email' => '','name' => 'Emily West','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Robert Gormley' => bless( {'email' => '','name' => 'Robert Gormley','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Christina Wickman' => bless( {'email' => '','name' => 'Christina Wickman','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Matty Sung' => bless( {'email' => '','name' => 'Matty Sung','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Brenda Shaylor' => bless( {'email' => '','name' => 'Brenda Shaylor','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Lisa Pitcaithley' => bless( {'email' => '','name' => 'Lisa Pitcaithley','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Greg Marliave' => bless( {'email' => '','name' => 'Greg Marliave','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Alex Evangelides' => bless( {'email' => '','name' => 'Alex Evangelides','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Daniel Naruo' => bless( {'email' => '','name' => 'Daniel Naruo','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Adam Raty' => bless( {'email' => '','name' => 'Adam Raty','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Bekah Sexton' => bless( {'email' => '','name' => 'Bekah Sexton','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Ryan Morrison' => bless( {'email' => '','name' => 'Ryan Morrison','team' => 'Polar Bears','phone' => ''}, 'Player' ),'AJ Shankar' => bless( {'email' => '','name' => 'AJ Shankar','team' => 'Polar Bears','phone' => ''}, 'Player' ),'Eli Kerns' => bless( {'email' => '','name' => 'Eli Kerns','team' => 'Polar Bears','phone' => ''}, 'Player' )},
+};

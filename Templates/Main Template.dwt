@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Polar Bears Ultimate</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../twoColLiqLtHdr.css" rel="stylesheet" type="text/css"><!--[if lte IE 7]>
+<style>
+.content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
+ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
+</style>
+<![endif]-->
+
+<style type="text/css">
+body {
+/*	background-image: url(../Snow_Flakes_Vector.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;*/
+}
+body,td,th {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><a href="../index.html"><img src="../Logo.png" alt="Polar Bears Logo" name="logo" width="400" height="217" id="Insert_logo" style="margin-bottom: 12px; margin-top: 20px;" /></a>
+  <!-- end .header --></div>
+ 
+  <div class="sidebar1">
+    <ul class="nav">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="roster.html">Roster</a></li>
+	  <li><a href="media.html">Media</a></li>
+	  <li><a href="tournaments.html">Tournaments</a></li>
+    </ul>
+    
+    <span class="cnt"><em>&nbsp; For Bears Only</em></span>
+<ul class="nav">	  
+      <li><a href="p_links.html">Links</a></li>
+      <li><a href="p_calendar.html">Calendar</a></li>
+      <li><a href="p_log.html">Workout Log</a></li>
+    </ul>
+	&nbsp; Rawr.
+    
+<!-- end .sidebar1 --></div>
+  <div class="content"><div style='padding-left: 10px; padding-right: 10px'><div class='title'><!-- TemplateBeginEditable name="Title" --><!-- TemplateEndEditable --></div>
+  <!-- TemplateBeginEditable name="Body" --><!-- TemplateEndEditable -->
+
+    <!-- end .content --></div></div>
+  <div class="footer">  Contact us at polarbearsrawr at gmail dot com &nbsp;<br>
+    &copy; 2010 Polar Bears Ultimate &nbsp;
+  <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>

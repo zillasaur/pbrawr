@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><!-- InstanceBegin template="/Templates/Main Template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Polar Bears Ultimate: Workout Log</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<link rel="stylesheet" type="text/css" href="wkstyle.css" />
+<script type="text/javascript" src="js/Request.js"></script>
+<script type="text/javascript" src="js/Box.js"></script>
+<script type="text/javascript" src="js/Parse.js"></script>
+<script type="text/javascript" src="js/update.js"></script>
+<!-- InstanceEndEditable -->
+<link href="twoColLiqLtHdr.css" rel="stylesheet" type="text/css"><!--[if lte IE 7]>
+<style>
+.content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
+ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
+</style>
+<![endif]-->
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' 
+rel='stylesheet' type='text/css'>
+
+<style type="text/css">
+body {
+/*	background-image: url(../Snow_Flakes_Vector.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;*/
+}
+body,td,th {
+	font-family: "Roboto Slab", serif;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><a href="index.html"><img src="logo2.png" alt="Polar Bears Logo" name="logo" width="283" height="338" id="Insert_logo" style="margin-bottom: 12px; margin-top: 20px;" /></a>
+  <!-- end .header --></div>
+ 
+  <div class="sidebar1">
+    <ul class="nav">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="roster.html">Roster</a></li>
+	  <li><a href="media.html">Media</a></li>
+	  <li><a href="tournaments.html">Tournaments</a></li>
+    </ul>
+    
+    <span class="cnt"><em>&nbsp; For Bears Only</em></span>
+<ul class="nav">	  
+      <li><a href="p_links.html">Links</a></li>
+      <li><a href="p_calendar.html">Calendar</a></li>
+      <li><a href="p_log.html">Workout Log</a></li>
+    </ul>
+	&nbsp; Rawr.
+    
+<!-- end .sidebar1 --></div>
+  <div class="content"><div style='padding-left: 10px; padding-right: 10px'><div class='title'><!-- InstanceBeginEditable name="Title" -->Workout Log<!-- InstanceEndEditable --></div>
+  <!-- InstanceBeginEditable name="Body" --><p><span style='font-size: small'><em>Note: If you're doing the same thing as someone else, click on 'Me too' on his or her entry rather than duplicating it by hand.</em></span></p>
+  <p>Select your name to get started!</p>
+  Name: <span id="names">Loading...</span>  
+<span id="change" onclick="logout()" style="visibility: hidden; color: blue; font-style: italic; font-size: 11px; cursor: pointer">Switch user...</span><p>
+<div style="font-size: 10px">
+Date range: <span id="before-select"></span> days before to <span id="after-select"></span> days after. <input type="submit" value="Go" onclick="change_range()" style="font-size: 10px" id="range-go"></div><p>
+<div id="table">
+</div>
+
+<div id="input-box" style="text-align: center; font-size: 11px;">
+  <div class="closebutton" id="input-box-close"><img
+  src="x-color.png" alt="[x]" width=12 height=12></div>
+  <div style="font-weight: bold;">Add Event:</div>
+<table style="text-align: left;">
+<tr><td style="vertical-align: top">Description:</td><td><textarea rows=3 cols=27 id="input-box-desc" style="width: 175px; font-size: 11px;"></textarea></td></tr>
+  <tr><td>Where:</td><td><input type="text" id="input-box-where" style="width: 175px; font-size: 11px;"></td></tr>
+  <tr><td>When:</td><td><input type="text" id="input-box-when"  style="width: 175px; font-size: 11px;"></td></tr>
+</table>
+  <input type="submit" value="Add event" id="add_event_button" style="font-size: 11px">
+</div>
+
+<div id="edit-box" style="text-align: center; font-size: 11px;">
+  <div class="closebutton" id="edit-box-close"><img
+  src="x-color.png" alt="[x]" width=12 height=12></div>
+  <div style="font-weight: bold;">Edit Event:</div>
+<table style="text-align: left;">
+<tr><td style="vertical-align: top">Description:</td><td><textarea rows=3 cols=27 id="edit-box-desc" style="width: 175px; font-size: 11px;"></textarea></td></tr>
+  <tr><td>Where:</td><td><input type="text" id="edit-box-where" style="width: 175px; font-size: 11px;"></td></tr>
+  <tr><td>When:</td><td><input type="text" id="edit-box-when"  style="width: 175px; font-size: 11px;"></td></tr>
+<tr style="vertical-align: top; width:30px;"><td>Who:</td><td style="width: 170px;"><span id="edit-box-who"></span></td></tr>
+</table>
+  <input type="submit" value="Edit event" id="edit_event_button" style="font-size: 11px">
+</div>
+  
+<div id="output-box" style="font-size: 11px">
+  <span id="output-box-desc"></span><br />
+<table style="text-align: left; width: 200px;">
+ <tr><td style="vertical-align: top; width:30px;">Where:</td><td style="width: 170px;"><span id="output-box-where"></span></td></tr>
+<tr style="vertical-align: top; width:30px;"><td>When:</td><td style="width: 170px;"><span id="output-box-when"></span></td></tr>
+<tr style="vertical-align: top; width:30px;"><td>Who:</td><td style="width: 170px;"><span id="output-box-who"></span></td></tr>
+</table>
+</div>
+<script type='text/javascript'>
+init();
+</script>
+<!-- InstanceEndEditable -->
+
+    <!-- end .content --></div></div>
+  <div class="footer">  Contact us at polarbearsrawr at gmail dot com &nbsp;<br>
+    &copy; 2010-2011 Polar Bears Ultimate &nbsp;
+  <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+<!-- InstanceEnd --></html>

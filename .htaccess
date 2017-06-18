@@ -1,0 +1,6 @@
+<FilesMatch "p_">
+  AuthName "Users zone"
+  AuthType Basic
+  AuthUserFile /home/pbrawr/.htpasswd
+  require valid-user
+</FilesMatch>
